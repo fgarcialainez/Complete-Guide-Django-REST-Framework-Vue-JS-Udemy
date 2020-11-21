@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Section 1 - First Django API.iml" filepath="$PROJECT_DIR$/.idea/Section 1 - First Django API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Section 2 - First Django API/.idea/Section 2 - First Django API.iml" filepath="$PROJECT_DIR$/../Section 2 - First Django API/.idea/Section 2 - First Django API.iml" />
     </modules>
   </component>
 </project>
